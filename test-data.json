@@ -1,0 +1,14 @@
+{
+  "RoleDetailList": [
+    {
+      "RoleName": "ROLE_1",
+      "RoleId": "ROLE_ID_1",
+      "Arn": "arn:aws:iam::987654321098:role/role_1"
+    },
+    {
+      "RoleName": "ROLE_2",
+      "RoleId": "ROLE_ID_2",
+      "Arn": "arn:aws:iam::987654321098:role/role_2"
+    }
+  ]
+}
